@@ -1,0 +1,10 @@
+El vendedorDavid ha vendido 75 unidades del producto 3 lo que equivale a euros
+El vendedorMiriam ha vendido 51 unidades del producto 10 lo que equivale a euros
+El vendedorRuben ha vendido 42 unidades del producto 6 lo que equivale a euros
+El vendedorCarlos ha vendido 10 unidades del producto 7 lo que equivale a euros
+El vendedorVlad ha vendido 26 unidades del producto 3 lo que equivale a euros
+El vendedorSara ha vendido 15 unidades del producto 1 lo que equivale a euros
+El vendedorRocio ha vendido 15 unidades del producto 10 lo que equivale a euros
+El vendedorRodrigo ha vendido 10 unidades del producto 3 lo que equivale a euros
+El vendedorJose Manuel ha vendido 20 unidades del producto 2 lo que equivale a euros
+El vendedorAlberto ha vendido 50 unidades del producto 5 lo que equivale a euros

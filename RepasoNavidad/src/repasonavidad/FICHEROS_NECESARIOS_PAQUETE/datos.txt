@@ -1,0 +1,9 @@
+Modificacion 3 cantidad 12
+Modificacion 8 precio 10.5
+Alta 60 15.25
+Alta 20 74.75
+Modificacion 11 cantidad 30
+Alta 25 130.0
+Baja 4
+Baja 1
+Baja 7
