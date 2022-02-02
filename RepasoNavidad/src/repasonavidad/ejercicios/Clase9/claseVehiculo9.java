@@ -58,7 +58,8 @@ import java.io.*;
 
         @Override
         public String toString() {
-            return "Vehiclo{" + "matricula=" + matricula + ", marca=" + marca + ", capacidad=" + capacidad + ", modelo=" + modelo + '}';
+            return "HOLA?";
+            //return "Vehiclo{" + "matricula=" + matricula + ", marca=" + marca + ", capacidad=" + capacidad + ", modelo=" + modelo + '}';
         }
     
 }

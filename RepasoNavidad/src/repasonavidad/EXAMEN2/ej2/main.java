@@ -15,7 +15,7 @@ import java.io.IOException;
  * @author Pablo
  */
 public class main {
-    public static void main(String[] args) throws IOException {
+    public void main(String[] args) throws IOException {
         
         OperacionesAnimales op = new OperacionesAnimales();
         
